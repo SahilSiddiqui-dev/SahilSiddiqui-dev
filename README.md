@@ -80,5 +80,3 @@ Currently building more real-world React applications.
 <p align="center">
   ⭐ Consistency &gt; Motivation
 </p>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
