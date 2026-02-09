@@ -34,8 +34,8 @@
 
 Responsive website built using HTML, CSS & JavaScript.
 
-🔗 Live Demo: Add Link Here
-🔗 Repository: Add Repo Link
+🔗 Live Demo: sahilsiddiqui.site
+🔗 Repository: https://github.com/SahilSiddiqui-dev/My-portfolio
 
 ---
 
@@ -44,7 +44,7 @@ Responsive website built using HTML, CSS & JavaScript.
 Component-based checkout UI with state handling.
 
 🔗 Live Demo: Add Link Here
-🔗 Repository: Add Repo Link
+🔗 Repository: (Click Here To View ){https://github.com/SahilSiddiqui-dev/Check-Out-Page}
 
 ---
 
