@@ -43,7 +43,7 @@ Responsive website built using HTML, CSS & JavaScript.
 
 Component-based checkout UI with state handling.
 
-🔗 Live Demo: Add Link Here
+🔗 Live Demo: 
 🔗 Repository: [Click Here To Open Repo](https://github.com/SahilSiddiqui-dev/Check-Out-Page)
 
 ---
