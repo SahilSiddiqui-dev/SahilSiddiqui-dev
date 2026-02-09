@@ -34,8 +34,8 @@
 
 Responsive website built using HTML, CSS & JavaScript.
 
-🔗 Live Demo: sahilsiddiqui.site
-🔗 Repository: [Click Here To Open Repo](https://github.com/SahilSiddiqui-dev/My-portfolio](https://github.com/SahilSiddiqui-dev/Demo-Tour-Booking-Website)
+🔗 Live Demo: [VIEW](https://sahilsiddiqui-dev.github.io/Demo-Tour-Booking-Website/)
+🔗 Repository: [Click Here To Open Repo](https://github.com/SahilSiddiqui-dev/Demo-Tour-Booking-Website)
 
 ---
 
