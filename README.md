@@ -32,7 +32,7 @@
 
 🌐 Landing Page
 
-Responsive website built using HTML, CSS(In Line) & JavaScript(InLine).
+Responsive website built using HTML, CSS(InLine) & JavaScript(InLine).
 
 🔗 Live Demo: [VIEW](https://sahilsiddiqui-dev.github.io/Demo-Tour-Booking-Website/)
 🔗 Repository: [Click Here To Open Repo](https://github.com/SahilSiddiqui-dev/Demo-Tour-Booking-Website)
