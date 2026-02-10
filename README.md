@@ -32,14 +32,14 @@
 
 🌐 Landing Page
 
-Responsive website built using HTML, CSS & JavaScript.
+Responsive website built using HTML, CSS(In Line) & JavaScript(InLine).
 
 🔗 Live Demo: [VIEW](https://sahilsiddiqui-dev.github.io/Demo-Tour-Booking-Website/)
 🔗 Repository: [Click Here To Open Repo](https://github.com/SahilSiddiqui-dev/Demo-Tour-Booking-Website)
 
 ---
 
-🛒 Checkout Page (React + Next.js)
+🛒 Checkout Page (React + Next.js) VIBE CODED
 
 Component-based checkout UI with state handling.
 
