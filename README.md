@@ -76,5 +76,7 @@ Currently building more real-world React applications.
 - 🧠 Improve system design basics
 
 ---
-
+<p align="center">
+  ⭐ Consistency &gt; Motivation
+</p>
 
