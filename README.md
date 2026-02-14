@@ -77,6 +77,4 @@ Currently building more real-world React applications.
 
 ---
 
-<p align="center">
-  ⭐ Consistency &gt; Motivation
-</p>
+
