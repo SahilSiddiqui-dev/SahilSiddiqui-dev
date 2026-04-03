@@ -34,8 +34,8 @@
 
 Responsive website built using HTML, CSS(InLine) & JavaScript(InLine).
 
-🔗 Live Demo: [VIEW](https://sahilsiddiqui-dev.github.io/Demo-Tour-Booking-Website/)
-🔗 Repository: [Click Here To Open Repo](https://github.com/SahilSiddiqui-dev/Demo-Tour-Booking-Website)
+🔗 Live Demo: [VIEW](https://sahilsiddiqui-dev.github.io/Sundarban-Adventure/)
+🔗 Repository: [Click Here To Open Repo](https://github.com/SahilSiddiqui-dev/Sundarban-Adventure)
 
 ---
 
