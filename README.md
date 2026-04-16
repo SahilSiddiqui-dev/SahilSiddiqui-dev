@@ -55,14 +55,6 @@
 
 ---
 
-### 🛒 Checkout Page — *React + Next.js*
-> Component-based checkout UI with state handling. Vibe coded — exploring real-world React patterns.
-
-🔗 **Live Demo:** [VIEW →](https://checkoutpage-seven.vercel.app/)
-🔗 **Repository:** [Open Repo →](https://github.com/SahilSiddiqui-dev/Check-Out-Page)
-
----
-
 ### 📱 Flutter Projects — *Coming Soon*
 > Currently learning Dart fundamentals and building first Flutter UI components.
 > First app in progress — stay tuned.
