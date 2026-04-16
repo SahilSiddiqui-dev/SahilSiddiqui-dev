@@ -55,9 +55,9 @@
 
 ---
 
-### 📱 Flutter Projects — *Coming Soon*
-> Currently learning Dart fundamentals and building first Flutter UI components.
-> First app in progress — stay tuned.
+### 📱 Flutter Projects — Stride (A Todo App)
+> A Flutter Android Todo App built with Dart that helps users manage and organize their daily tasks efficiently. Features a clean and intuitive UI with full CRUD operations, and persistent local storage using Shared Preferences to keep tasks saved across sessions.
+🔗 **Repository:** [Open Repo →](https://github.com/SahilSiddiqui-dev/Stride-A_Todo_App)
 
 ---
 
