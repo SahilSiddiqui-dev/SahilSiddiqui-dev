@@ -112,18 +112,6 @@
 
 ---
 
-<!-- ================= LEARNING PATH ================= -->
-## 📈 Current Learning Path
-
-```
-React JS          ████████░░  80%   (active)
-JavaScript        ███████░░░  70%   (deepening)
-Tailwind CSS      ██████░░░░  60%   (comfortable)
-Flutter           ███░░░░░░░  30%   (just started)
-Dart              ███░░░░░░░  25%   (learning)
-Next.js           ████░░░░░░  40%   (exploring)
-```
-
 ---
 
 <p align="center">
