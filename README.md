@@ -1,61 +1,83 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<div align="center">
 
-<h3 align="center">Backend Developer in progress | Exploring AI-integrated systems & Graph Databases</h3>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
 
-- 🎓 3rd-year B.Tech Computer Science student, graduating 2028
-- 🖥️ Focused on **backend engineering** — Node.js, Express.js, REST APIs
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohd+Sahil+Siddiqui;Backend+Developer;AI+%26+Graph+Database+Enthusiast;Computer+Science+Student" alt="Typing SVG" />
+
+</div>
+
+<h3 align="center">Backend Developer in progress | Building AI-integrated systems & Graph Databases</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 👋 About Me
+
+- 🎓 3rd-year B.Tech Computer Science student, graduating **2028**
+- 🖥️ Focused on **backend engineering** — Node.js, Express.js, REST API design
 - 🗄️ Working across **relational, document, and graph databases** — SQL/PL-SQL, MongoDB, Neo4j
 - 🤖 Applying **AI in production systems** — RAG pipelines, LLM tool-use/agents, MCP (Model Context Protocol)
 - 🔭 Currently building: **[Project Name]** — a graph-powered recommendation system using Neo4j + Node.js + MongoDB
 - 🌱 Next up: Microservices architecture & system design
 - 💬 Ask me about: backend architecture, NoSQL vs. graph modeling, or DSA
-- 📫 Reach me: [your.email@example.com] · [LinkedIn](https://linkedin.com/in/yourhandle)
 
 ---
 
-### 🛠️ Tech Stack
+🛠️ Tech Stack
 
-**Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-<!-- swap C++ above for Java/Python if that's your DSA language -->
+Languages
 
-**Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+<p align="left<img width="480" height="480" alt="78XCFBGOlS6keY1Bil" src="https://github.com/user-attachments/assets/a7d4becc-3b9b-4085-8ab9-bb6afa2838e9" />
+ <img src="https://skillicons.dev/icons?i=c,cpp,py,js,dart" /> </p> <!-- Swap "cpp" above for "java" or "py" if that's your DSA language -->
 
-**Databases**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-![PostgreSQL/Oracle](https://img.shields.io/badge/-SQL%2FPL--SQL-4479A1?style=flat-square&logo=oracle&logoColor=white)
+Backend
 
-**AI / GenAI**
-![OpenAI](https://img.shields.io/badge/-LLM%20APIs-412991?style=flat-square&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express" /> </p>
 
-**Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+Databases
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=mongodb" /> <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" /> <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" /> </p>
+
+AI / GenAI
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=pytorch" /> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/LLM%20APIs-412991?style=for-the-badge&logo=openai&logoColor=white" /> </p>
+
+Mobile
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=flutter,dart" /> </p>
+
+Tools & Platforms
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> </p>
+
+<!-- ================= PROJECTS ================= -->
+
+### 📱 Flutter Projects — Stride (A Todo App)
+> A Flutter Android Todo App built with Dart that helps users manage and organize their daily tasks efficiently. Features a clean and intuitive UI with full CRUD operations, and persistent local storage using Shared Preferences to keep tasks saved across sessions.
+
+🔗 *Repository:* [Open Repo →](https://github.com/SahilSiddiqui-dev/Stride-A_Todo_App)
 
 ---
 
-### 📌 Featured Projects
+<!-- ================= STATS ================= -->
+## 📊 GitHub Stats
 
-| Project | Description | Stack |
-|---|---|---|
-| **[Project Name](repo-link)** | Graph-powered recommender using Neo4j relationship modeling + Node/Express + MongoDB backend | Node.js, Express, MongoDB, Neo4j |
-| **[Project Name 2](repo-link)** | *(add your second project here as you build it)* | — |
-
+![](https://github-readme-stats.vercel.app/api?username=SahilSiddiqui-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800)<br/>
+![](https://streak-stats.demolab.com/?user=SahilSiddiqui-dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilSiddiqui-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800)
 ---
 
-### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+  ⭐ Consistency &gt; Motivation &nbsp;|&nbsp; 🔥 Web + Mobile = Full Dev
 </p>
