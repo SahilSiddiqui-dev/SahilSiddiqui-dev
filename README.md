@@ -77,7 +77,3 @@ Tools & Platforms
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilSiddiqui-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800)
 ---
 
-
-<p align="center">
-  ⭐ Consistency &gt; Motivation &nbsp;|&nbsp; 🔥 Web + Mobile = Full Dev
-</p>
